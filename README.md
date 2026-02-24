@@ -1,0 +1,2 @@
+# Kernelized-SVM-with-Custom-Boosting-Bias-Variance-Analysis-on-Imbalanced-Financial-Risk-Data
+Built an end-to-end credit default risk prediction system comparing a custom dual-form SVM (solved via quadratic programming) with ensemble methods including AdaBoost, Random Forest, and Gradient Boosting. Addressed class imbalance using SMOTE, evaluated performance using ROC-AUC, and applied SHAP for model interpretability.
